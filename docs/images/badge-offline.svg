@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="22" role="img" aria-label="日常使用: 离线可用">
+  <title>日常使用: 离线可用</title>
+  <path fill="#555" d="M0 0h66v22H0z"/>
+  <path fill="#74825d" d="M66 0h66v22H66z"/>
+  <g fill="#fff" text-anchor="middle" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="11">
+    <text x="33" y="15">日常使用</text><text x="99" y="15">离线可用</text>
+  </g>
+</svg>

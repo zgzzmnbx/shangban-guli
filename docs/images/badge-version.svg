@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="106" height="22" role="img" aria-label="version: 0.7.3">
+  <title>version: 0.7.3</title>
+  <path fill="#555" d="M0 0h56v22H0z"/>
+  <path fill="#74825d" d="M56 0h50v22H56z"/>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Arial,sans-serif" font-size="11">
+    <text x="28" y="15">version</text><text x="81" y="15">0.7.3</text>
+  </g>
+</svg>

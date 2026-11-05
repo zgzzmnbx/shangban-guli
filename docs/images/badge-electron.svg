@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="124" height="22" role="img" aria-label="Electron: 44.4.5">
+  <title>Electron: 44.4.5</title>
+  <path fill="#555" d="M0 0h66v22H0z"/>
+  <path fill="#47848f" d="M66 0h58v22H66z"/>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Arial,sans-serif" font-size="11">
+    <text x="33" y="15">Electron</text><text x="95" y="15">44.4.5</text>
+  </g>
+</svg>

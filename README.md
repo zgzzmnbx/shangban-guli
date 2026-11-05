@@ -6,10 +6,10 @@
 
 Windows 桌面小组件 · 实时收入 · 下班倒计时 · 心愿进度 · 离线语音鼓励
 
-![版本](https://img.shields.io/badge/version-0.7.3-74825D?style=flat-square)
-![平台](https://img.shields.io/badge/platform-Windows_x64-0078D4?style=flat-square)
-![Electron](https://img.shields.io/badge/Electron-44.4.5-47848F?style=flat-square&logo=electron&logoColor=white)
-![离线使用](https://img.shields.io/badge/日常使用-离线可用-74825D?style=flat-square)
+![版本](docs/images/badge-version.svg)
+![平台](docs/images/badge-platform.svg)
+![Electron](docs/images/badge-electron.svg)
+![离线使用](docs/images/badge-offline.svg)
 
 [**下载 Windows 单文件版**](https://github.com/zgzzmnbx/shangban-guli/releases/latest) · [主题预览](#主题预览) · [开始使用](#开始使用) · [本地开发](#本地开发) · [反馈问题](https://github.com/zgzzmnbx/shangban-guli/issues)
 
