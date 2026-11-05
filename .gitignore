@@ -1,0 +1,22 @@
+# Publish only source, public documentation and README images.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/CHANGELOG.md
+!/CHANGELOG-历史归档.md
+!/03-Src/
+!/docs/
+
+**/node_modules/
+**/.env
+**/.env.*
+**/config.json
+**/config.backup.json
+**/voice-key.dat
+**/*.log
+**/*.tmp
+**/*.pem
+**/*.key
+**/Thumbs.db
+**/.DS_Store

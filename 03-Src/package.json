@@ -1,0 +1,19 @@
+{
+  "name": "work-cheer-widget",
+  "productName": "上班鼓励器",
+  "version": "0.7.3",
+  "private": true,
+  "description": "温暖的桌面陪伴、实时收入与心愿小组件",
+  "main": "main.cjs",
+  "scripts": {
+    "setup": "node node_modules/electron/install.js",
+    "start": "electron .",
+    "test": "node --test tests/*.test.cjs",
+    "build": "node tools/package-portable.cjs",
+    "build:folder": "node tools/package.cjs"
+  },
+  "devDependencies": {
+    "electron": "44.4.5",
+    "electron-builder": "26.18.0"
+  }
+}

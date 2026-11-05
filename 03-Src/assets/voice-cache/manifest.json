@@ -1,0 +1,138 @@
+{
+  "model": "qwen3-tts-flash",
+  "voice": "Cherry",
+  "region": "beijing",
+  "preparedDate": "2026-11-05",
+  "revision": "0.5.1",
+  "clips": [
+    {
+      "id": "amount-10",
+      "text": "今天已经赚到10元啦。第一份小小的收获，已经攒起来了。",
+      "amount": 10,
+      "file": "Cherry-64d2170f22f7f782bd5c69aa.wav",
+      "bytes": 249644,
+      "durationSeconds": 5.2,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "07c1f61bb3cbd0eb1b833de2eb82511a21b68b5a044b9b0f2d6b54754f4c0053"
+    },
+    {
+      "id": "amount-50",
+      "text": "今天已经赚到50元啦。一杯喜欢的咖啡，今天的努力已经赚出来啦。",
+      "amount": 50,
+      "file": "Cherry-65b289f52ef5af9e22ba7b4d.wav",
+      "bytes": 307244,
+      "durationSeconds": 6.4,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "e3b70e53f18a01cd60b5d8547ffa837acebc426fc32e4861721fa3075f8fb26a"
+    },
+    {
+      "id": "amount-100",
+      "text": "今天已经赚到100元啦。破百啦！认真生活的你，值得被好好奖励。",
+      "amount": 100,
+      "file": "Cherry-8b8bc01c2a972bee67f49401.wav",
+      "bytes": 307244,
+      "durationSeconds": 6.4,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "d3c94c61bda83e66315ea9d78b6f6998733c4e280457c76994ab54dfc58d0e69"
+    },
+    {
+      "id": "amount-200",
+      "text": "今天已经赚到200元啦。今天的努力，正在变成看得见的小幸福。",
+      "amount": 200,
+      "file": "Cherry-d91ce3d8fedebe8086c28cd1.wav",
+      "bytes": 261164,
+      "durationSeconds": 5.44,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "c27e3ddbc2760858e0fa5a00d562120b67de94681c146a7ce24a56cd5f30db79"
+    },
+    {
+      "id": "amount-500",
+      "text": "今天已经赚到500元啦。已经很棒了，给努力的自己一个大大的拥抱。",
+      "amount": 500,
+      "file": "Cherry-d2843e745ce8e864517e683d.wav",
+      "bytes": 249644,
+      "durationSeconds": 5.2,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "58e554ef93cef477282c8e1b3dc6543937099b64ab16a858c7f1b752d7ba1dac"
+    },
+    {
+      "id": "amount-1000",
+      "text": "今天已经赚到1000元啦。又跨过了一个大目标，你真的很厉害。",
+      "amount": 1000,
+      "file": "Cherry-21a6947c6f8e0c739f61faee.wav",
+      "bytes": 257324,
+      "durationSeconds": 5.36,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "6c68028672d4d2c46618b784b05b9892e31375755c34aeb38ed53e867fc4cb5c"
+    },
+    {
+      "id": "amount-2000",
+      "text": "今天已经赚到2000元啦。又跨过了一个大目标，你真的很厉害。",
+      "amount": 2000,
+      "file": "Cherry-c472da39e51408b77f3e31e3.wav",
+      "bytes": 245804,
+      "durationSeconds": 5.12,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "d40c34837041ecef98ba55cf9377fba98739f0aa67be2a45fc610b8435996164"
+    },
+    {
+      "id": "amount-5000",
+      "text": "今天已经赚到5000元啦。又跨过了一个大目标，你真的很厉害。",
+      "amount": 5000,
+      "file": "Cherry-0a142ee1a21ea96aab2c7051.wav",
+      "bytes": 272684,
+      "durationSeconds": 5.68,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "1b7c6345074abf2644ee023e8ae7a9246b6789e308046c8b3bf2052b4d0257bf"
+    },
+    {
+      "id": "amount-10000",
+      "text": "今天已经赚到10000元啦。又跨过了一个大目标，你真的很厉害。",
+      "amount": 10000,
+      "file": "Cherry-5ee39fd48d7ed1ebc14f72ed.wav",
+      "bytes": 245804,
+      "durationSeconds": 5.12,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "5fb0ee9fac66c408b18e38a975ac9148b0a3289d717adf2efdb46cee467c9336"
+    },
+    {
+      "id": "sample",
+      "text": "嗨，又努力了一会儿，真棒。喝口水，伸个懒腰吧。",
+      "file": "Cherry-7e30bb7bf315860b9370ffe5.wav",
+      "bytes": 203564,
+      "durationSeconds": 4.24,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "c65dc63713efa0cf98f34f1c8b739d336f246d859a7d2c5e58df4546dee4c6be"
+    },
+    {
+      "id": "near",
+      "text": "悄悄告诉你，今天的收入等值已经完成这个小心愿的百分之八十了。就差一点点，继续慢慢来。",
+      "file": "Cherry-b1d258d97c91e58630ee49e8.wav",
+      "bytes": 384044,
+      "durationSeconds": 8,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "ae7bb9cb55268efa5c2ba34c9d75c0534e789cc98a5fd4394cb003dd0a651e77"
+    },
+    {
+      "id": "done",
+      "text": "恭喜你，今天的努力，已经赚够这一份小奖励啦。好好工作，也别忘了好好爱自己。",
+      "file": "Cherry-9a1a98c96c2bb17943a08f8c.wav",
+      "bytes": 349484,
+      "durationSeconds": 7.28,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "7b64a0d1366614afd4eab00d2ccfb916a131cf587f3e9644ab581ebf47c2e129"
+    }
+  ]
+}
